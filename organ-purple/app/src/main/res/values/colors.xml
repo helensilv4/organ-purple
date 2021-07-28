@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPurple128">#800080</color>
+    <color name="colorPurple115">#730073</color>
+    <color name="colorPurple102">#660066</color>
+    <color name="colorPurple90">#5a005a</color>
+    <color name="colorPurple77">#4d004d</color>
+    <color name="colorPurple64">#400040</color>
+    <color name="colorPurple51">#330033</color>
+    <color name="colorPurple38">#260026</color>
+    <color name="colorPurple26">#1a001a</color>
+    <color name="colorPurple13">#0d000d</color>
+
+    <!-- Purple Colors -->
+
+    <color name="colorPrimary">#5a005a</color>
+    <color name="colorPrimaryDark">#330033</color>
+    <color name="colorAccent">#800080</color>
+    <color name="colorOutline">#808080</color>
+    <color name="colorGray">#DCDCDC</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackgroundApp">#ECECEC</color>
+    <color name="ic_organapp_background">#FFFFFF</color>
+    <color name="colorBlack">#030303</color>
+    <color name="colorStar">#FFBE3C</color>
+</resources>
