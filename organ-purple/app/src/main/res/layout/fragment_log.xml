@@ -22,6 +22,7 @@
             android:imeOptions="actionNext"
             android:inputType="textEmailAddress"
             android:shadowColor="@color/colorPrimary"
+            android:text="admin@gmail.com"
             android:textColor="@color/colorBlack"
             android:textColorLink="@color/colorWhite">
 
@@ -47,6 +48,7 @@
             android:inputType="textPassword"
             android:password="true"
             android:shadowColor="@color/colorPrimary"
+            android:text="1234567"
             android:textColor="@color/colorBlack"
             android:textColorLink="@color/colorWhite">
 
