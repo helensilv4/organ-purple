@@ -34,7 +34,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/lato_bold"
                 android:gravity="center"
-                android:text="Cenoura"
+                android:text="Headset"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textSize="25sp"
                 android:typeface="normal" />

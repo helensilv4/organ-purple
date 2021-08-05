@@ -92,67 +92,61 @@ public class MainFragment extends Fragment {
 
     public void prepararProdutos(){
 
-        Produtos p = new Produtos("Pimentão", "R$2,00", R.drawable.img_product_1);
+        Produtos p = new Produtos("Red De...", "R$148,90", R.drawable.img_product_15);
         this.produtos.add(p);
 
-        p = new Produtos("Morango", "R$5,65", R.drawable.img_product_2);
+        p = new Produtos("Counte...", "R$137,00", R.drawable.img_product_20);
         this.produtos.add(p);
 
-        p = new Produtos("Ervilha", "R$2,50", R.drawable.img_product_3);
+        p = new Produtos("XCOM 2", "R$232,99", R.drawable.img_product_19);
         this.produtos.add(p);
 
-        p = new Produtos("Repolho", "R$7,00", R.drawable.img_product_4);
+        p = new Produtos("Rainbo...", "R$149,00", R.drawable.img_product_14);
         this.produtos.add(p);
 
-        p = new Produtos("Tomate", "R$3,25", R.drawable.img_product_5);
+        p = new Produtos("Unchar...", "R$62,99", R.drawable.img_product_16);
         this.produtos.add(p);
 
-        p = new Produtos("Couve-flor", "R$10,00", R.drawable.img_product_6);
+        p = new Produtos("Horizo...", "R$55,99", R.drawable.img_product_18);
         this.produtos.add(p);
 
-        p = new Produtos("Cenoura", "R$6,00", R.drawable.img_product_7);
+        p = new Produtos("Controle", "R$499,99", R.drawable.img_product_1);
         this.produtos.add(p);
 
-        p = new Produtos("Cebola", "R$4,99", R.drawable.img_product_8);
+        p = new Produtos("Controle", "R$469,99", R.drawable.img_product_4);
         this.produtos.add(p);
 
-        p = new Produtos("Maçã", "R$3,50", R.drawable.img_product_9);
+        p = new Produtos("Controle", "R$179,99", R.drawable.img_product_5);
         this.produtos.add(p);
 
-        p = new Produtos("Alho", "R$1,90", R.drawable.img_product_10);
+        p = new Produtos("Headset", "R$1.099,0", R.drawable.img_product_2);
         this.produtos.add(p);
 
-        p = new Produtos("Pimenta", "R$3,00", R.drawable.img_product_11);
+        p = new Produtos("Headset", "R$499,90", R.drawable.img_product_7);
         this.produtos.add(p);
 
-        p = new Produtos("Trator Peq.", "R$R$63.489,00", R.drawable.img_product_12);
+        p = new Produtos("Headset", "R$539,90", R.drawable.img_product_6);
         this.produtos.add(p);
 
-        p = new Produtos("Semente Abóbora", "R$5,00", R.drawable.img_product_19_abobora);
+        p = new Produtos("Playsta...", "R$4.699,00", R.drawable.img_product_10);
         this.produtos.add(p);
 
-        p = new Produtos("Trator agro", "R$65.000", R.drawable.img_product_13);
+        p = new Produtos("Playsta...", "R$3.199,00", R.drawable.img_product_9);
         this.produtos.add(p);
 
-        p = new Produtos("Pá", "R$18,90", R.drawable.img_product_14);
+        p = new Produtos("Playsta...", "R$4.530,99", R.drawable.img_product_8);
         this.produtos.add(p);
 
-        p = new Produtos("ancinho c/ cabo", "R$ 28,90", R.drawable.img_product_15);
+        p = new Produtos("Xbox S...", "R$2.947,99", R.drawable.img_product_11);
         this.produtos.add(p);
 
-        p = new Produtos("Semente Girassol", "R$4,00", R.drawable.img_product_20_girassol);
+        p = new Produtos("Xbox S...", "R$4.999,90", R.drawable.img_product_12);
         this.produtos.add(p);
 
-        p = new Produtos("Sacho 2 pontas", "R$35,00", R.drawable.img_product_16);
+        p = new Produtos("Cabo", "R$60,99", R.drawable.img_product_3);
         this.produtos.add(p);
 
-        p = new Produtos("Laranja", "R$7,00", R.drawable.img_product_17);
-        this.produtos.add(p);
-
-        p = new Produtos("Maçã Fuji", "R$3,00", R.drawable.img_product_18);
-        this.produtos.add(p);
-
-        p = new Produtos("Sementes soja", "R$1,50", R.drawable.img_product_20_soja);
+        p = new Produtos("Adapta...", "R$37,00", R.drawable.img_product_13);
         this.produtos.add(p);
 
     }
